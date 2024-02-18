@@ -1,6 +1,6 @@
-import { Header, Heading } from 'components';
+import { Header } from 'components';
 import { lazy } from 'react';
-import { Navigate, Route, Router, Routes } from 'react-router-dom';
+import { Navigate, Route, Routes } from 'react-router-dom';
 // import { Home } from 'pages/Home';
 // import { SearchCountry } from 'pages/SearchCountry';
 // import { Country } from 'pages/Country';
